@@ -11,9 +11,9 @@
   }
   
   .gradient-text {
-    background: linear-gradient(270deg, black, grey);
+    background: linear-gradient(270deg, rgb(255, 0, 0), rgb(0, 0, 0));
     background-size: 200% 200%;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation: gradient 3s ease-in-out infinite;
+    animation: gradient 4s ease-in-out infinite;
   }
