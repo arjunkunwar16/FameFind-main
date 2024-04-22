@@ -23,7 +23,8 @@ const Products = () => {
   useEffect(() => {
     const getProducts = async () => {
       setLoading(true);
-      const response = await fetch("https://fakestoreapi.com/products/");
+      // fetch from data.json
+      const response = await fetch("DATA.json");
       if (componentMounted) {
         setData(await response.clone().json());
         setFilter(await response.json());
@@ -127,7 +128,7 @@ const Products = () => {
       <div className="container my-3 py-3">
         <div className="row">
           <div className="col-12">
-            <h2 className="display-5 text-center gradient-text">Latest Products</h2>
+            <h2 className="display-5 text-center gradient-text"> Latest Products</h2>
             <hr />
           </div>
         </div>
