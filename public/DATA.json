@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 12,
     "title": "Kanye West",
     "price": 30,
     "description": "Elevate your style with the signature look of Kanye West's exclusive clothing line.",
@@ -12,7 +12,7 @@
     }
   },
   {
-    "id": 1,
+    "id": 13,
     "title": "Taylor Swift",
     "price": 109.95,
     "description": "Elevate your style with the signature look of Taylor Swift's exclusive clothing line.",
@@ -24,7 +24,7 @@
     }
   },
   {
-    "id": 1,
+    "id": 14,
     "title": "Lana Del Rey",
     "price": 109.95,
     "description": "Elevate your style with the signature look of Lana Del Rey's exclusive clothing line.",
@@ -36,7 +36,7 @@
     }
   },
   {
-    "id": 1,
+    "id": 15,
     "title": "Travis Scott",
     "price": 109.95,
     "description": "Elevate your style with the signature look of Travis Scott's exclusive clothing line.",
@@ -48,7 +48,7 @@
     }
   },
   {
-    "id": 1,
+    "id": 16,
     "title": "Tyler The Creator",
     "price": 109.95,
     "description": "Elevate your style with the signature look of Tyler The Creator's exclusive clothing line.",
@@ -60,7 +60,7 @@
     }
   },
   {
-    "id": 1,
+    "id": 17,
     "title": "Kendrick Lamar",
     "price": 109.95,
     "description": "Elevate your style with the signature look of Kendrick Lamar's exclusive clothing line.",
@@ -78,7 +78,7 @@
 
 
   {
-    "id": 1,
+    "id": 18,
     "title": "Dwyane Wade",
     "price": 109.95,
     "description": "Known for his eye-catching pre-game outfits, Dwyane Wade solidified himself as a style icon and became an important facet of Fashion Week.",
@@ -90,7 +90,7 @@
     }
   },
   {
-    "id": 1,
+    "id": 19,
     "title": "Lonzo Ball",
     "price": 109.95,
     "description": "The clothing label is comprised of casual staples such as hats, T-shirts, hoodies and more all embellished with Big Baller Brand insignias.",
@@ -102,7 +102,7 @@
     }
   },
   {
-    "id": 1,
+    "id": 20,
     "title": "LeBron James",
     "price": 109.95,
     "description": "On top of the range of men’s and women’s options, LeBron designed his first woman’s basketball shoe alongside three Harlem Fashion Row designers—Fe Noel, Undra Celeste and Kimberly Goldson—dubbed the HFR x LeBron 16.",
@@ -114,7 +114,7 @@
     }
   },
   {
-    "id": 1,
+    "id": 21,
     "title": "Roger Federer",
     "price": 109.95,
     "description": "Roger Federer, who currently holds the most Grand Slam titles of any male tennis player ever, also has his own fashion line, making good use of his “RF” initials.",
@@ -126,7 +126,7 @@
     }
   },
   {
-    "id": 1,
+    "id": 22,
     "title": "Neymar Jr.",
     "price": 109.95,
     "description": "When Neymar Jr. isn’t making headlines for lighting up the pitch at Parc desPrinces, the 28-year-old is turning heads with his eye-catching outfits.",
@@ -138,7 +138,7 @@
     }
   },
   {
-    "id": 1,
+    "id": 23,
     "title": "Stephen Curry",
     "price": 109.95,
     "description": "Teaming up with Express, Curry’s product lineup includes slim-fit pants, fitted button-downs, T-shirts, and a range of accessories.",
@@ -154,80 +154,67 @@
 
 
 
-
-    {
-      "id": 1,
-      "title": "Love on hoodie",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "Actors",
-      "image": "https://store.selenagomez.com/products/embroidered-love-on-hoodie",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
-    },
-    {
-      "id": 2,
-      "title": "Regilar fit t shirt",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "Actors",
-      "image": "https://www.beinghumanclothing.com/product/being-human-men-regular-fit-t-shirts-forest-green-8905271453482",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
-    },
-    {
-      "id": 3,
-      "title": "Athletic wear t shirt",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "Actors",
-      "image": "https://nimbuscluster.blob.core.windows.net/server01/hrx/product/productImage-TVLj9f8NzX0eAmnbR7NzF-1662610505",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
-    },
-    {
-      "id": 4,
-      "title": "women athletic wear",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "Actors",
-      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alilyloveaffair.com%2Ffabletics-review.html&psig=AOvVaw2TI4zmJF0MMQaOax5Xq6zs&ust=1713893851076000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiw-KWu1oUDFQAAAAAdAAAAABAE",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
-    },
-    {
-      "id": 5,
-      "title": "skult jacket",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "Actors",
-      "image": "https://assets.ajio.com/medias/sys_master/root/hd3/h96/14277274959902/-473Wx593H-460482869-navy-MODEL.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
-    },
-    {
-      "id": 6,
-      "title": "kids t shirt",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "Actors",
-      "image": "https://www.edamamma.com/product/half-sleeves-colour-block-polo-eat3kbts118-10y",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
-    },
-
+  {
+    "id": 7,
+    "title": "selena gomez hoodie",
+    "price": 5828.83,
+    "description": "Look at her now selena gomez album  oversized t shirt",
+    "category": "Actors",
+    "image": "https://i.pinimg.com/564x/b3/30/66/b3306614e6cfb45a560cb37a050f6592.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 8,
+    "title": "salman khan",
+    "price": 1899,
+    "description": "Being Human Men Regular Fit T-Shirts-Forest Green",
+    "category": "Actors",
+    "image": "https://pictures.kartmax.in/cover/live/600x800/quality=6/sites/w0ACRcy407Pb14QWUoSQ/product-images/BHP24003-FOREST%20GREEN_1.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 9,
+    "title": "hritik roshan",
+    "price": 384,
+    "description": "Performance running shoes never looked so good.",
+    "category": "Actors",
+    "image": "https://i.pinimg.com/564x/5e/33/07/5e33077c19a6241eb73fadcaf7e4e275.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  
+  {
+    "id": 10,
+    "title": "shahid kapoor",
+    "price": 2999,
+    "description": "Solid Jacket with Band Collar",
+    "category": "Actors",
+    "image": "https://assets.ajio.com/medias/sys_master/root/hd3/h96/14277274959902/-473Wx593H-460482869-navy-MODEL.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 11,
+    "title": "alia bhatt",
+    "price": 629,
+    "description": "This red colour blocked Half Sleeves Polo T-Shirt with badge will transport you to be the sailor of your dreams!",
+    "category": "Actors",
+    "image": "https://cdn.pixelspray.io/v2/black-bread-289bfa/ofVBQK/original/edamamma-product/EAT3KBTS118-10Y/665/EAT3KBTS118-10Y_1_8254.webp",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
 
 
 

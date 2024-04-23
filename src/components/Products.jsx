@@ -23,6 +23,7 @@ const Products = () => {
       setLoading(true);
       // fetch from data.json
       const response = await fetch("DATA.json");
+      console.log(response,"abcd");
       if (componentMounted) {
         setData(await response.clone().json());
         setFilter(await response.json());

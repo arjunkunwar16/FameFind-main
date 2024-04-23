@@ -1,4 +1,4 @@
-import { Navbar, Main, Footer,Test } from "../components";
+import { Navbar, Main, Footer, Test, Hello } from "../components";
 
 function Home() {
   return (
@@ -8,6 +8,9 @@ function Home() {
       <br />
       <br />
       <Test />
+      <br />
+      <br />
+      <Hello />
       <br />
       <br />
       <Footer />
